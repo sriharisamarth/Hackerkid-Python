@@ -1,2 +1,2 @@
 # Hackerkid-Python
-A place where I upload my assignments.
+A place where I upload my assignments from Hackerkid course
